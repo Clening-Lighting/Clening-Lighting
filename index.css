@@ -42,6 +42,7 @@
 .u-section-2 .u-image-1 {
   width: 1291px;
   height: 770px;
+  --radius: 12px;
   margin: 156px auto 0 0;
 }
 
