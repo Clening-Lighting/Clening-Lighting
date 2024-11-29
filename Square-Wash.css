@@ -38,7 +38,7 @@
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
   font-weight: 700;
-  margin: -167px auto 0 calc(((100% - 1140px) / 2)  + 483px);
+  margin: -174px auto 60px calc(((100% - 1140px) / 2)  + 482px);
 }
 
 @media (max-width: 1199px) {
@@ -154,9 +154,7 @@
 
   .u-section-1 .u-btn-1 {
     margin-top: 95px;
-    margin-bottom: 60px;
     margin-left: calc(((100% - 340px) / 2)  + 82px);
-    font-weight: 400;
     padding: 3px 30px 4px;
   }
 }
